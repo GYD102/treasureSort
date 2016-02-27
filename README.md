@@ -12,7 +12,7 @@ the Game / Dungeon Master (GM/DM).
 
 Key
 ---
-* - Planned changes, modifications, improvements
+\* - Planned changes, modifications, improvements
 
 Files
 -----
