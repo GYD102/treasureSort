@@ -14,6 +14,12 @@ Key
 ---
 * - Planned changes, modifications, improvements
 
+Files
+-----
+1) treasureSort.py	Program
+2) treasure.txt		Sample input / output
+3) sortedTreasure.txt	Sample output
+
 Usage
 -----
 1) Create a file called "treasure.txt" in the same directory as the program. 
