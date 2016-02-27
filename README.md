@@ -17,12 +17,15 @@ Key
 Files
 -----
 1) treasureSort.py	Program
+
 2) treasure.txt		Sample input / output
+
 3) sortedTreasure.txt	Sample output
 
 Usage
 -----
 1) Create a file called "treasure.txt" in the same directory as the program. 
+
 2) Systematically flip through an adventure book or module. Write in the item
    name with relevent details, the gold cost associated with it, and the page
    number on which the info. can be found. Separate these details with ";" and
@@ -44,6 +47,7 @@ Usage
     styling.
 
 3) Execute treasureSort.py using Python3.
+
 4) The program will create a new file (sortedTreasure.txt) which will be
    organized into a standard structure that can then be converted to a PDF,
    printed, or simply displayed.
