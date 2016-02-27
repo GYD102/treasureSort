@@ -16,11 +16,11 @@ Key
 
 Files
 -----
-1) treasureSort.py      Program
+1) treasureSort.py (Program)
 
-2) treasure.txt         Sample input / output
+2) treasure.txt (Sample input / output)
 
-3) sortedTreasure.txt   Sample output
+3) sortedTreasure.txt (Sample output)
 
 Usage
 -----
