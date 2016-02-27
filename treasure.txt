@@ -1,0 +1,31 @@
+Flawed carnelian gemstone;10 gp;pg 5
+Small eye of polished jet;5 gp;pg 12
+Large eye of polished jet;10 gp;pg 12
+Heavy silver candlestick;25 gp;pg 12
+Flask of strong syrupy blue liquor;10 gp;pg 14
+Set of bone dice engraved w/ Elvish characters;10 gp;pg 14
+Small silver-framed mirror;10 gp;pg 14
+Small moonstone;20 gp;pg 14
+Black velvet mask stitched / silver thread in a spiderweb pattern;25 gp;pg 14
+Silver chain headdress set w/ small onyx stones;50 gp;pg 14
+Small shrine to Lolth of zurkhwood and bone;50 gp;pg 14
+Spider-shaped onyx brooch;50 gp;pg 14
+10gp gemstone;10 gp;pg 29
+Gold ring;25 gp;pg 29
+50gp gemstone;50 gp;pg 29
+Obsidian statuette of Lolth;100 gp;pg 29
+Green-gold bracelet;25 gp;pg 36
+Ceremonial wand of chiseled ivory;25 gp;pg 38
+Ewer of beaten gold;25 gp;pg 38
+Gold bracelet;50 gp;pg 38
+Onyx ring;50 gp;pg 38
+Zircon;50 gp;pg 38
+Walking stick of varnished yew w/ a golden handle shaped like a scorpion;75 gp;pg 38
+Gold sheath sarcaphogus covering;250 gp;pg 38
+Silver necklace set w/ two azurites and a carnelian;250 gp;pg 38
+Black pearl eye;500 gp;pg 43
+Strand of matching pearls;1000 gp;pg 47
+Azurite gem;10 gp;pg 48
+Duergar-made bronze cup;25 gp;pg 48
+Embroidered sik handkerchief w/ spider design;25 gp;pg 48
+Silver choker w/ spider design;30 gp;pg 48
